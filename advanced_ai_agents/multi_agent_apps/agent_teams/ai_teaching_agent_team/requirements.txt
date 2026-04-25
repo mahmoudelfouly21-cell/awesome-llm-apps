@@ -1,12 +1,8 @@
-streamlit==1.41.1
-openai==1.58.1
-duckduckgo-search>=6.4.2,<7
-typing-extensions>=4.5.0
-agno>=2.5.0
-composio-phidata>=0.6.9
-composio-core>=0.6.9
-<<<<<<< HEAD
-google-search-results>=2.4.2
-=======
-google-search-results>=2.4.2
->>>>>>> ae1738c53f0080a1185dda04776dab2facc5ddb2
+1. streamlit==1.41.1
+2. openai==1.58.1
+3. duckduckgo-search>=6.4.2,<7
+4. typing-extensions>=4.5.0
+5. agno>=2.5.0
+6. composio-phidata>=0.6.9
+7. composio-core>=0.6.9
+8. google-search-results>=2.4.2
