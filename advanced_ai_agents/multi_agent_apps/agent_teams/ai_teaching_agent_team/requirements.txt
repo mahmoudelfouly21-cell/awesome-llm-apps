@@ -5,4 +5,8 @@ typing-extensions>=4.5.0
 agno>=2.5.0
 composio-phidata>=0.6.9
 composio-core>=0.6.9
+<<<<<<< HEAD
 google-search-results>=2.4.2
+=======
+google-search-results>=2.4.2
+>>>>>>> ae1738c53f0080a1185dda04776dab2facc5ddb2
