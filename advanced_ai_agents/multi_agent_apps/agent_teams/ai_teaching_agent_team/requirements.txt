@@ -1,3 +1,4 @@
+pillow>=11.3.0
 streamlit==1.41.1
 openai>=2.0.0
 duckduckgo-search>=6.4.2,<7
@@ -6,4 +7,3 @@ agno>=2.5.0
 composio-phidata>=0.6.9
 composio-core>=0.6.9
 google-search-results>=2.4.2
-pillow>=11.3.0
